@@ -1,6 +1,6 @@
 # TP-Intro-Modelado-Continuo
 Trabajos prácticos de Introducción al modelado continuo 2C 2022, FCEyN - UBA
-
+Integrantes: Hsueh, Noé. Wisznia, Juan
 ## Trabajo Práctico 1 - Simulación de Dinámica de Gases 
 
 ## Trabajo Práctico 2 - Compresión de Imágenes (jpeg)
